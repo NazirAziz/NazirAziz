@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me nazirazizis123456@gamil.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am an English teacher
+- ⚡ Fun fact: I dream code at night
 
 <!---
 NazirAziz/NazirAziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
