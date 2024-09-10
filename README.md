@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nazir</h1>
 <h3 align="center">A curious problem solver from Afghanistan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naziraziz&label=Profile%20views&color=0e75b6&style=flat" alt="naziraziz" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naziraziz" alt="naziraziz" /></a> </p>
 
 - 🌱 I’m currently learning **Java and Database**
@@ -13,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nazir-azizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazir-azizi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nazir azizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazir azizi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/24503028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24503028" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/azizinazir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="azizinazir" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nazirazizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nazirazizi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nazirazizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nazirazizi" height="30" width="40" /></a>
